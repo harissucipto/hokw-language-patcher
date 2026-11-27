@@ -1,8 +1,9 @@
 # HoKW Language Patcher
 
 Aplikasi Android untuk memasang **Bahasa Indonesia** ke game Honor of Kings World (王者荣耀世界)
-langsung di HP, tanpa komputer. Semua terjemahan sudah ada di dalam aplikasi. Tombol **Kembalikan
-ke asli** mengembalikan game ke bahasa Cina persis seperti semula.
+langsung di HP, tanpa komputer. Semua terjemahan sudah ada di dalam aplikasi. Tersedia juga pilihan
+**Bahasa Inggris** (dari patch komunitas PC, cakupannya lebih rendah). Tombol **Kembalikan ke asli**
+mengembalikan game ke bahasa Cina persis seperti semula.
 
 **Unduh versi terbaru:**
 https://github.com/harissucipto/hokw-language-patcher/releases/latest/download/HoKW-Language-Patcher.apk
@@ -20,7 +21,7 @@ Anda tanggung sendiri.
   login.
 - Aplikasi **Shizuku** (gratis di Play Store). Aplikasi ini memandu cara memasang dan menyalakannya,
   tanpa root dan tanpa komputer.
-- Ruang kosong sekitar 150 MB.
+- Ruang kosong sekitar 200 MB.
 
 ## Cara pakai
 
@@ -29,9 +30,11 @@ Anda tanggung sendiri.
    tombol untuk melakukannya: siapkan Shizuku → nyalakan Shizuku → beri izin → **Pasang Bahasa
    Indonesia**.
 3. Tutup game dulu, lalu tekan **Pasang Bahasa Indonesia**. Tunggu 2–3 menit; bar progres akan diam
-   sebentar di tengah, itu normal.
-4. Tekan **Buka game**. Menu, nama skill, dan quest tampil dalam Bahasa Indonesia. Sebagian teks yang
-   datang dari server (pengumuman, event) tetap Cina.
+   sebentar di tengah, itu normal. Ingin Bahasa Inggris? Pilih **Bahasa Inggris** di kartu atas, lalu
+   tekan **Pasang Bahasa Inggris**; ganti bahasa kapan saja dengan cara yang sama.
+4. Tekan **Buka game**. Menu, nama skill, dan quest tampil dalam bahasa yang dipilih. Sebagian teks yang
+   datang dari server (pengumuman, event) tetap Cina; dengan Bahasa Inggris lebih banyak teks yang tetap
+   Cina.
 
 Layar **Panduan** di dalam aplikasi menjelaskan semua langkah dengan gambar, termasuk bagian
 "Kalau gagal".
